@@ -257,6 +257,10 @@ footer{
  background-color: #002855;
 
 }
+h2:hover,h1:hover,h4:hover,h3:hover{
+     color:rgb(36, 135, 135); 
+     transition: color 0.3s ease-in-out;   
+}
 
 
 .social-icons{
